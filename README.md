@@ -19,6 +19,6 @@ Platform Architecture, Sharif University of Technology
 AliMoradiSabzKoohi/AliMoradiSabzKoohi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-![Monorepo Super Application Clean Architecture](https://github.com/user-attachments/assets/d438b2d7-7364-4478-ac61-a2574145aa74)
+![Monorepo Super Application Clean Architecture](https://github.com/user-attachments/assets/7aee02b5-b5df-4a1a-821c-1d0155a20ff7)
 
-[Monorepo Super Application Clean Architecture.pdf](https://github.com/user-attachments/files/20273738/Monorepo.Super.Application.Clean.Architecture.pdf)
+[Monorepo Super Application Clean Architecture.pdf](https://github.com/user-attachments/files/20273784/Monorepo.Super.Application.Clean.Architecture.pdf)
